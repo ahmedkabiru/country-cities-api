@@ -12,7 +12,7 @@ To get started with the City Information API, follow these steps:
 2. Open the project in your preferred IDE.
 3. Ensure you have Java Development Kit (JDK) installed on your system. The project is built using Java 8 or higher.
 4. Build the project to download the required dependencies and compile the source code. You can use your IDE's build command or run the following command in the project's root directory:
-   <pre><code>./mvnw clean install</code></pre>
+   <pre><code>./mvnw clean package</code></pre>
 5. Once the build is successful, you can run the application using the following command:
     <pre><code>./mvnw spring-boot:run</code></pre>
 
