@@ -8,7 +8,7 @@ This repository contains the code and resources for the City Information API tas
 To get started with the City Information API, follow these steps:
 
 1. Clone this repository to your local machine or download the source code as a ZIP file.
-     <pre><code>git clone https://github.com/your-username//country-cities-api.git</code></pre>
+     <pre><code>git clone https://github.com/your-username/country-cities-api.git</code></pre>
 2. Open the project in your preferred IDE.
 3. Ensure you have Java Development Kit (JDK) installed on your system. The project is built using Java 8 or higher.
 4. Build the project to download the required dependencies and compile the source code. You can use your IDE's build command or run the following command in the project's root directory:
